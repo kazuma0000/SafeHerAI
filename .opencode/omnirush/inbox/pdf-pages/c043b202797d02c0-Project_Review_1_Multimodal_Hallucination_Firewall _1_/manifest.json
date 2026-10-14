@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "sha256": "c043b202797d02c0a85dd322fc6ff4dc0ca3d4cd385e63645824b2023e1de7bb",
+  "filename": "Project_Review_1_Multimodal_Hallucination_Firewall _1_.pdf",
+  "pageCount": 6,
+  "textPages": 6,
+  "textBudgetExhausted": false,
+  "pagesWithoutText": [],
+  "renderedPages": [
+    {
+      "page": 1,
+      "width": 1108,
+      "height": 1566,
+      "bytes": 81178,
+      "mime": "image/png",
+      "fileName": "page-001.png"
+    },
+    {
+      "page": 2,
+      "width": 1108,
+      "height": 1566,
+      "bytes": 169837,
+      "mime": "image/png",
+      "fileName": "page-002.png"
+    },
+    {
+      "page": 3,
+      "width": 1108,
+      "height": 1566,
+      "bytes": 212993,
+      "mime": "image/png",
+      "fileName": "page-003.png"
+    },
+    {
+      "page": 4,
+      "width": 1108,
+      "height": 1566,
+      "bytes": 23010,
+      "mime": "image/png",
+      "fileName": "page-004.png"
+    },
+    {
+      "page": 5,
+      "width": 1108,
+      "height": 1566,
+      "bytes": 164088,
+      "mime": "image/png",
+      "fileName": "page-005.png"
+    },
+    {
+      "page": 6,
+      "width": 1108,
+      "height": 1566,
+      "bytes": 49643,
+      "mime": "image/png",
+      "fileName": "page-006.png"
+    }
+  ],
+  "renderBudgetExhausted": false
+}
